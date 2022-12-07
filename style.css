@@ -1,0 +1,92 @@
+<style type="text/css">
+
+  #div1,#div2{
+    border: dashed;
+}
+  #div1{
+    background-color:#ad8a28;
+    border: dashed;
+    padding: 10px;
+
+  }
+  #div2{
+    background-color:#AB3131;
+    border: dashed;
+  }
+
+  #mylist{
+    color: #ffc83d;
+  }
+  #intro{
+    color: #EDE0A6
+  }
+  .favlist{
+    text-decoration: underline;
+  }
+  #div3,#div4{
+    border: dashed;
+  }
+  #div3{
+    background-color:#a78151;
+    padding: 10px;
+  }
+  #div4{
+    background-color:#a75256;
+  }
+
+  #intro{
+    color: #EDE0A6
+  }
+  .aboutMe{
+    color: #49362a;
+  }
+  body{
+    background-color: #808000;
+    margin: 5px;
+    padding:10px;
+  }
+  h1{
+    color: #4A0000;
+    font-family: fantasy;
+    font-weight: 500px;
+    text-align: center;
+    text-decoration: underline;
+  }
+  h2{
+    color: #ffc83d;
+    text-align: center;
+  }
+  p{
+    padding: 10px;
+    letter-spacing: ;
+    word-spacing: ;
+    line-height: 1.5;
+    text-align: left;
+  }
+  li{
+    color: #EDE0A6;
+    font-size: 15px;
+  }
+  a{
+    color:#4A0000;
+    text-decoration: none;
+  }
+  nav{
+    text-align: center;
+    font-size: 17px;
+  }
+  table{
+    padding: 10px;
+    color:#49362a;
+  }
+  th{
+    color:#ffc83d;
+  }
+  video{
+    padding:10px
+  }
+
+
+
+
+</style>
